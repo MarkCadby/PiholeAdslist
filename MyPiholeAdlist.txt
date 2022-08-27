@@ -17,16 +17,20 @@ stats.wp.com # Stats WP Plugin Analytics
 
 # Social Trackers
 advertising.twitter.com # Twitter
+static.ads-twitter.com # Twitter
 widgets.pinterest.com # Pinterest
+log.pinterest.com # Pinterest
 d.reddit.com # Reddit
+ads.reddit.com # Reddit
 
 # OEM
 samsung-com.112.2o7.net # Samsung
 metrics1.data.hicloud.com # Huawei
 metrics5.data.hicloud.com # Huawei
+yandexadexchange.net # Yandex
 
 # Error Trackers
 browser.sentry-cdn.com # Sentry
 sessions.bugsnag.com # Bugsnag
 api.bugsnag.com # Bugsnag
-pp.bugsnag.com # Bugsnag
+app.bugsnag.com # Bugsnag
