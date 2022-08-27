@@ -1,0 +1,32 @@
+# Personal Blocklist by Mark Cadby
+
+## You are welcome to share, copy, redistibute, remix and transform this content
+## You must give appropriate credit, and not use this list for commercial purposes
+
+# Ads
+pagead2.googlesyndication.com # Google Ads
+adservice.google.com # Google Ads
+analyticsengine.s3.amazonaws.com # Amazon Ads
+affiliationjs.s3.amazonaws.com # Amazon Ads
+advertising-api-eu.amazon.com # Amazon Ads
+
+# Analytics
+mouseflow.com # MouseFlow Analytics
+a.mouseflow.com # MouseFlow Analytics
+stats.wp.com # Stats WP Plugin Analytics
+
+# Social Trackers
+advertising.twitter.com # Twitter
+widgets.pinterest.com # Pinterest
+d.reddit.com # Reddit
+
+# OEM
+samsung-com.112.2o7.net # Samsung
+metrics1.data.hicloud.com # Huawei
+metrics5.data.hicloud.com # Huawei
+
+# Error Trackers
+browser.sentry-cdn.com # Sentry
+sessions.bugsnag.com # Bugsnag
+api.bugsnag.com # Bugsnag
+pp.bugsnag.com # Bugsnag
